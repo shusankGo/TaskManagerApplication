@@ -2,13 +2,20 @@ h1{
     margin-left: 700px;
 }
 .red{
-    background-color: red;
+    background: rgb(255, 73, 73);
  
 }
 .yellow{
-    background-color: yellow;
+    background: rgb(252, 252, 106);
  
 }
 .green{
-    background-color: green;
+    background: rgb(70, 237, 70);
+}
+table{
+    border-collapse: separate;
+    border-spacing: 50px 0;
+}
+td{
+    padding: auto;
 }
